@@ -1,7 +1,6 @@
 ## Olá, eu sou a Alice!👋
 
-
-**🌱 Em constante evolução, explorando novas tecnologias e desenvolvendo soluções que geram impacto.
+🎨 Em constante evolução, explorando novas tecnologias e desenvolvendo soluções que geram impacto.
 
 🚀 Sobre mim
 - 🌱 Estudando JavaScript, TypeScript, React e Node.js.
